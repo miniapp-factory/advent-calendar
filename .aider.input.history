@@ -1,0 +1,28 @@
+
+# 2025-11-26 13:20:30.503437
++Code the following app
++```
++Create a mini-game similar to Battleship with a completely covered grid. The position of the ships should not be visible: the player only discovers what is there when they click on a square.
++Include at least 3 ships of different sizes.
++When the player clicks on a square:
++If there is a ship, display a green rectangle with a black X on it.
++If there is no ship, show a blue X.
++When all parts of a ship have been hit, the green rectangles for that ship turn into red dots to indicate that it has been destroyed.
++When all three ships have been destroyed, show the words “YOU WIN” in the center of the screen.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-26 13:20:30.504481
++Code the following app
++```
++Create a mini-game similar to Battleship with a completely covered grid. The position of the ships should not be visible: the player only discovers what is there when they click on a square.
++Include at least 3 ships of different sizes.
++When the player clicks on a square:
++If there is a ship, display a green rectangle with a black X on it.
++If there is no ship, show a blue X.
++When all parts of a ship have been hit, the green rectangles for that ship turn into red dots to indicate that it has been destroyed.
++When all three ships have been destroyed, show the words “YOU WIN” in the center of the screen.
++```
++
++Generate an app logo and update the app metadata title and description.
